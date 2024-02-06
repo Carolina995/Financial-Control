@@ -22,9 +22,7 @@ A simple project system with implementation of React, an ability to measure stak
 
 ### 🖥️ Web Access
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+In process
 
 ### 📖 Developer
 
