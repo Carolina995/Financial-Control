@@ -8,17 +8,17 @@ A simple project system with implementation of React, an ability to measure stak
 
 ### 🎯 Financial Control Functionality
 
-- 💵 Allow stakeholders adding their financial transaction
-- 💶 Allow stakeholders deleting financial transaction
-- 💷 Keep track the stakeholders financial managements
-- 💴 Summary of transactions List with expenses and/or savings
+- 💵 Allow stakeholders adding their financial transaction;
+- 💶 Allow stakeholders deleting financial transaction;
+- 💷 Keep track the stakeholders financial managements;
+- 💴 Summary of transactions List with expenses and/or savings.
 
 ### 🛠️ Tools used
 
-- HTML
-- CSS
-- JavaScript
-- React
+- HTML;
+- CSS;
+- JavaScript;
+- React.
 
 ### 🖥️ Web Access
 
