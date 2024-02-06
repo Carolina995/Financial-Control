@@ -28,5 +28,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### 📖 Developer
 
-<sub>Carolina Gomes Landim</sub>](https://github.com/Carolina995) | [<img src="https://avatars.githubusercontent.com/u/59806026?v=4" width=115><br><sub>
+ [<img src="https://avatars.githubusercontent.com/u/83533485?v=4" width=115><br><sub>Carolina Gomes Landim</sub>](https://github.com/Carolina995) 
 
