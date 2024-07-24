@@ -1,4 +1,5 @@
 # Financial Control 💰
+![image](https://github.com/user-attachments/assets/5b1353d8-3b3e-4cd0-9984-04a8b32c47dc)
 
 ## 💡 Definition 
 
